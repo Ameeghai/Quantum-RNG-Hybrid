@@ -121,7 +121,7 @@ cd sp800_22_tests
 make
 ```
 
-Or use the GUI version from [https://csrc.nist.gov/projects/random-bit-generation](https://csrc.nist.gov/projects/random-bit-generation).
+Or use the GUI version from [https://csrc.nist.gov/projects/random-bit-generation](https://csrc.nist.gov/projects/random-bit-generation)
 
 ---
 
@@ -363,7 +363,7 @@ The simulated QRNG output was benchmarked against the **Australian National Univ
 
 ## 📄 License
 
-This project was developed as a B.S. Physics project at [Your Institution]. For academic and research use only.
+This project was developed as a B.S. Physics project at IIT Jodhpur. For academic and research use only.
 
 ---
 
